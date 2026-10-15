@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500" role="img" aria-labelledby="title desc">
+  <title id="title">Floor plan placeholder</title>
+  <desc id="desc">Placeholder graphic — final Royal Superior floor plan pending</desc>
+  <rect width="800" height="500" fill="#f4f2ee"/>
+  <rect x="16" y="16" width="768" height="468" fill="none" stroke="#c9c2b6" stroke-width="2" stroke-dasharray="10 8"/>
+  <g fill="#8a8071" font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <text x="400" y="235" font-size="28" font-weight="bold">FLOOR PLAN</text>
+    <text x="400" y="270" font-size="16">Placeholder — final floor plan pending</text>
+  </g>
+</svg>
